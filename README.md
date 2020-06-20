@@ -1,2 +1,2 @@
 # advanced-algorithm
- include some algorithm draft 
+Include some algorithm draft as well as questions and answers.
